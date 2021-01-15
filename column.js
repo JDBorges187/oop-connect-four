@@ -23,4 +23,5 @@ export class Column {
     getTokenAt(row) {
         return this.column[row];
     }
+
 }
